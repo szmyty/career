@@ -102,27 +102,59 @@ Sole developer on an internal initiative, where I designed and deployed a modula
 
 ---
 
-## 🌟 STARS #2:
-**Accomplishment Statement:**  
-  
+## 🌟 STARS #2: Rapid Android Prototype (See-Through-Wall Sensor App)
+
+**Accomplishment Statement**  
+Joined a time-sensitive Android sensor project for a one-month sprint to modernize and complete an experimental “see-through-wall” visualization prototype. Updated the codebase to current Android design patterns, optimized sensor data rendering, and delivered a working demo that unblocked the team’s next phase of research.
+
+---
 
 ### 1️⃣ Situation
--  
+- Ongoing experimental R&D project exploring wall-penetrating sensor visualization on Android.  
+- Team needed immediate engineering support to finalize and modernize their prototype.  
+- Limited documentation and extremely compressed timeline (one month).  
+- My role: short-term developer responsible for upgrading the app and ensuring it functioned reliably for demonstrations.
+
+---
 
 ### 2️⃣ Task
--  
+- Bring an outdated Android app up to modern design standards.  
+- Integrate and visualize complex sensor data streams in real time.  
+- Debug existing functionality and ensure compatibility with current Android SDKs.  
+- Deliver a stable, demonstrable version within weeks.
+
+---
 
 ### 3️⃣ Actions
--  
+- Refactored the codebase to align with modern Android architecture (activities, fragments, asynchronous tasks).  
+- Reimplemented UI rendering logic to display sensor-based “see-through-wall” visuals dynamically.  
+- Debugged existing hardware and API connections, resolving synchronization and rendering issues.  
+- Optimized layout performance and ensured stability across target devices.  
+- Collaborated closely with the core sensor team to translate technical signals into clear on-screen visuals.
+
+---
 
 ### 4️⃣ Results
--  
+- Delivered a functional prototype ready for internal demonstration and further research development.  
+- Reduced app crashes and improved frame rendering stability.  
+- Enabled the team to proceed with testing and data collection on schedule.  
+- Demonstrated adaptability and rapid problem-solving in an unfamiliar, high-pressure environment.
+
+---
 
 ### 5️⃣ Skills / Job Knowledge
--  
+- **Android Development:** Java, XML layouts, fragments, asynchronous data handling.  
+- **Visualization:** Real-time sensor data rendering and debugging.  
+- **Refactoring:** Modernizing legacy Android apps and architecture.  
+- **Collaboration:** Translating hardware outputs into usable software interfaces.
+
+---
 
 ### 6️⃣ Personal Strengths
--  
+- **Adaptability:** Quickly learned and contributed to a complex, unfamiliar project.  
+- **Initiative:** Took ownership of stabilization and modernization with minimal guidance.  
+- **Focus:** Delivered under tight time constraints and uncertainty.  
+- **Technical Agility:** Bridged legacy and modern Android frameworks effectively.
 
 ---
 

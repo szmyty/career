@@ -158,27 +158,55 @@ Joined a time-sensitive Android sensor project for a one-month sprint to moderni
 
 ---
 
-## 🌟 STARS #3:
-**Accomplishment Statement:**  
-  
+## 🌟 STARS #3: NICS / NATO National Exercise – Live Feed Fix
+
+**Accomplishment Statement**  
+During a live NATO-sponsored national exercise, restored the real-time drone video feed used by senior officials after identifying and correcting a single-character error in the controller’s configuration. The fix re-established full situational awareness within minutes and saved the demonstration from failure.
+
+---
 
 ### 1️⃣ Situation
--  
+- Deployed overseas as the **Android mobile engineer** supporting a live emergency-response exercise involving national and NATO leadership.  
+- The mobile app provided real-time drone location and video feeds displayed in a command-center boardroom.  
+- Only engineer on site responsible for the mobile system; language barriers and tight security added pressure.  
+
+---
 
 ### 2️⃣ Task
--  
+- Ensure the Android app and drone controllers transmitted live video and telemetry to the server for the public demonstration.  
+- Investigate and resolve any issues in real time during the event.  
+
+---
 
 ### 3️⃣ Actions
--  
+- Detected reports from the command center that the live feed had gone dark moments before the demonstration.  
+- Quickly verified that network and backend systems were healthy, isolating the problem to the field controller.  
+- Communicated with the non-English-speaking drone pilot, gained temporary access to the controller, and inspected configuration settings.  
+- Discovered a one-character URL typo in the stream endpoint.  
+- Corrected and saved the setting, restoring the live feed immediately.  
+- Continued monitoring to confirm stable operation for the remainder of the event.  
+
+---
 
 ### 4️⃣ Results
--  
+- **Restored full system functionality within minutes**, preventing public demonstration failure.  
+- Senior leadership completed the exercise successfully; organizers considered the event a success and ended early.  
+- Gained strong credibility with management and partners for calm, decisive action under pressure.  
+
+---
 
 ### 5️⃣ Skills / Job Knowledge
--  
+- Android development, REST configuration, real-time telemetry and streaming.  
+- Troubleshooting under live operational conditions.  
+- Cross-team coordination and rapid debugging.  
+
+---
 
 ### 6️⃣ Personal Strengths
--  
+- **Composure:** Stayed calm and methodical under intense public scrutiny.  
+- **Adaptability:** Diagnosed unfamiliar hardware and software in the field.  
+- **Attention to Detail:** Located a single-character configuration error.  
+- **Initiative & Communication:** Bridged language barriers to take quick corrective action.
 
 ---
 

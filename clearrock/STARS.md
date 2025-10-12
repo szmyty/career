@@ -210,27 +210,63 @@ During a live NATO-sponsored national exercise, restored the real-time drone vid
 
 ---
 
-## 🌟 STARS #4:
-**Accomplishment Statement:**  
-  
+## 🌟 STARS #4: Universal Dev Environment Setup
+
+**Accomplishment Statement**  
+Designed and implemented a universal, container-based development environment to reduce context switching, automate configuration, and maintain productivity across multiple high-security and open-source projects. The system unified tools such as Docker, Dev Containers, Taskfile, Poetry, and MegaLinter, enabling reproducible local-first environments while teaching me to balance technical structure with personal sustainability.
+
+---
 
 ### 1️⃣ Situation
--  
+- Constantly rotated between projects with differing tech stacks and security restrictions.  
+- Maintained separate workstations (lab laptop, home desktop) that frequently drifted out of sync.  
+- Experiencing burnout, cognitive overload, and communication challenges while working mostly alone.  
+- Needed a consistent environment that could travel with me and scale from small experiments to large systems.
+
+---
 
 ### 2️⃣ Task
--  
+- Build a **universal development platform** that eliminated repetitive setup and reduced friction when switching projects.  
+- Standardize local environments for services such as **Keycloak, Postgres, FastAPI, React, and Kepler GL**.  
+- Integrate quality-control tools and automation to let a single developer operate efficiently.  
+- Learn and apply modern DevOps and DX practices while maintaining day-to-day deliverables.
+
+---
 
 ### 3️⃣ Actions
--  
+- Created reproducible base images using **Docker + VS Code Dev Containers**; defined consistent paths and environment variables.  
+- Automated builds and testing through **Taskfile** scripts and **MegaLinter** integration.  
+- Used **Poetry** and **ASDF** for version and dependency management.  
+- Implemented “local-first” orchestration with Keycloak authentication, Postgres databases, and front-end frameworks.  
+- Captured design sessions and workflows through ChatGPT conversations to offload cognitive load and document decisions.  
+- Practiced alternating **deep-focus bursts** with low-energy configuration work to manage attention and prevent burnout.  
+- Iteratively refactored and documented the environment until it could be cloned and run identically on any machine.
+
+---
 
 ### 4️⃣ Results
--  
+- Achieved reproducible builds and reduced environment setup from hours to minutes.  
+- Enabled seamless movement between lab and home systems with minimal breakage.  
+- Improved code quality and debugging speed through standardized tooling.  
+- Gained clarity on personal work cycles and how to design systems that support, rather than exhaust, mental focus.  
+- The framework evolved into the foundation for later open-source and creative projects.
+
+---
 
 ### 5️⃣ Skills / Job Knowledge
--  
+- **DevOps / DX:** Docker, Dev Containers, Taskfile, MegaLinter, Poetry, ASDF.  
+- **Backend / Frontend:** FastAPI, Postgres, React, Kepler GL.  
+- **Automation:** Continuous linting, reproducible builds, local-first architecture.  
+- **Documentation & Knowledge Capture:** conversational design logs, structured notes.
+
+---
 
 ### 6️⃣ Personal Strengths
--  
+- **Systems Thinking:** built frameworks that scale across contexts.  
+- **Adaptability:** integrated new tools and best practices rapidly.  
+- **Self-Awareness & Discipline:** balanced deep technical focus with recovery cycles.  
+- **Innovation:** merged developer-experience design with personal productivity research.  
+- **Resilience:** persisted through burnout to create sustainable structure.
 
 ---
 

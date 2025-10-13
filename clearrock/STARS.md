@@ -26,7 +26,8 @@ Sole developer on an internal initiative, where I designed and deployed a modula
 - Partnered with local law enforcement agency based in New York. 
 - Team downsized to just two people: myself (sole developer) and a program manager.  
 - Strict constraints: data access restrictions, offline-only operation, reproducible environments.  
-- Internal funding required completion of an entrepreneurial validation program.  
+- Internal funding required completion of an entrepreneurial validation program.
+- Program manager conducted customer discovery interviews with a variety of local law enforcement agencies.
 - Personally balancing full-time engineering responsibilities with Boston University online graduate coursework.  
 
 ---
@@ -36,7 +37,8 @@ Sole developer on an internal initiative, where I designed and deployed a modula
 - Architect a full pipeline capable of handling multiple document types (text, video, etc.).  
 - Ensure modular, reproducible, and offline-ready deployment via containerization.  
 - Build a simple frontend for creating “workspaces” (investigations) and running processing jobs.  
-- Align development with stakeholder validation interviews conducted by program manager.  
+- Align development with stakeholder validation interviews conducted by program manager.
+- Selecting appropriate software business model.
 
 ---
 
@@ -45,7 +47,8 @@ Sole developer on an internal initiative, where I designed and deployed a modula
 - Added machine translation (Apache Joshua) and entity extraction with CoreNLP, spaCy, regex, and face recognition.  
 - Created reproducible builds with Docker Compose and implemented automated testing via pytest.  
 - Collaborated on synthetic datasets to simulate investigations while protecting sensitive data.  
-- Shadowed the program manager during stakeholder validation sessions.  
+- Shadowed the program manager during stakeholder validation sessions.
+- Decided to pursue hybrid open source business model.
 
 ---
 

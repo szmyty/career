@@ -11,7 +11,7 @@ This file captures detailed examples of professional, academic, and personal ach
 <h2 align="center">🌟 STARS #1: Counter-Human Trafficking Pipeline</h2>
 
 <p align="center">
-  <img src="./star1.png" alt="Counter-Human-Trafficking Pipeline Illustration" width="90%">
+  <img src="./stars1.png" alt="Counter-Human-Trafficking Pipeline Illustration" width="90%">
   <br>
   <em>Figure 1: Order from chaos — a visual representation of system design and human clarity.</em>
 </p>

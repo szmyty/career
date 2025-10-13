@@ -13,7 +13,7 @@ This file captures detailed examples of professional, academic, and personal ach
 <p align="center">
   <img src="./stars1.png" alt="Counter-Human-Trafficking Pipeline Illustration" width="90%">
   <br>
-  <em>Figure 1: Order from chaos — a visual representation of system design and human clarity.</em>
+  <em>Figure 1: Transforming chaos into clarity — a human-centered system for structured insight.</em>
 </p>
 
 **Accomplishment Statement**  
@@ -40,186 +40,169 @@ Sole developer on an internal initiative, where I designed and deployed a modula
 ---
 
 ### 3️⃣ Actions
-- **Backend Architecture**  
-  - Designed a Python-based document-processing pipeline, containerized with **Docker & Docker Compose**.  
-  - Deployed **Portainer** to simplify IT team operations and container management.  
-  - Integrated open-source services: Apache Tika, Elasticsearch + Kibana, Postgres, Nominatim, Apache Joshua.  
-- **Entity Extraction**: Implemented multi-pronged extraction (CoreNLP, spaCy, regex, face recognition).  
-- **Pipeline Orchestration:** Modular doc-type pipelines normalized into Elasticsearch + Postgres.  
-- **Frontend Development:** Extended React skills to prototype a minimal UI for investigations.  
-- **Testing & Repo Hygiene:** Added pytest, mock entities, Docker best practices.  
-- **Synthetic Data Strategy:** Collaborated with manager to create LaTeX + Python persona generator.  
-- **Entrepreneurial Learning:** Shadowed manager in interviews with law enforcement and NGOs.  
+- Designed a modular, Dockerized Python pipeline integrating Apache Tika, Elasticsearch, Kibana, Postgres, and Nominatim.  
+- Added machine translation (Apache Joshua) and entity extraction with CoreNLP, spaCy, regex, and face recognition.  
+- Created reproducible builds with Docker Compose and implemented automated testing via pytest.  
+- Collaborated on synthetic datasets to simulate investigations while protecting sensitive data.  
+- Shadowed the program manager during stakeholder validation sessions.  
 
 ---
 
 ### 4️⃣ Results
-- Delivered a functional full-stack system for analyzing unstructured datasets.  
-- Validated strong demand among law enforcement for automated metadata surfacing.  
-- Proved feasibility of offline containerized deployment.  
-- Built foundational code and patterns for reproducibility and scale.  
+- Delivered a functional prototype validated by law enforcement and NGO partners.  
+- Proved reproducible offline systems viable for secure environments.  
+- Gained experience in full-stack design, NLP, and container orchestration.  
 
 ---
 
 ### 5️⃣ Skills / Job Knowledge
-Python • React • Regex • Docker • Docker Compose • Portainer • Apache Tika • Elasticsearch • Kibana • Postgres • Nominatim • Apache Joshua • spaCy • CoreNLP • pytest • CI/CD  
+Python • React • Docker • Elasticsearch • Kibana • Apache Tika • Nominatim • Postgres • NLP • pytest  
 
 ---
 
 ### 6️⃣ Personal Strengths
-Resilience • Adaptability • Initiative • Strategic Thinking • Mission-Driven Focus  
+Resilience • Initiative • Mission-Driven Focus • Systems Thinking • Adaptability  
 
 ---
 
 <h2 align="center">🌟 STARS #2: Rapid Android Prototype (See-Through-Wall Sensor App)</h2>
 
 <p align="center">
-  <img src="./star2.png" alt="Rapid Android Prototype Illustration" width="90%">
+  <img src="./stars2.png" alt="See-Through-Wall Prototype Illustration" width="90%">
   <br>
-  <em>Figure 2: Rapid iteration and technical agility under pressure.</em>
+  <em>Figure 2: Turning invisible signals into visible insight — real-time sensor data visualization around physical barriers.</em>
 </p>
 
 **Accomplishment Statement**  
-Joined a time-sensitive Android sensor project for a one-month sprint to modernize and complete an experimental “see-through-wall” visualization prototype. Updated the codebase to modern Android design patterns, optimized sensor data rendering, and delivered a working demo that unblocked the team’s research phase.  
+Joined a time-sensitive Android sensor project for a one-month sprint to modernize and complete an experimental “see-through-wall” visualization prototype. Updated the codebase to modern Android design patterns, optimized sensor data rendering, and delivered a working demo that unblocked the next phase of research.  
 
 ---
 
 ### 1️⃣ Situation
-- Short-term R&D Android project exploring wall-penetrating sensor visualization.  
-- Needed fast modernization and stabilization under tight time limits.  
+- R&D project visualizing wall-penetrating sensors through Android interfaces.  
+- High-pressure timeline; minimal documentation.  
 
 ### 2️⃣ Task
-- Update legacy Android app for modern SDKs and new UI architecture.  
+- Modernize app, integrate data visualization, and ensure demo reliability.  
 
 ### 3️⃣ Actions
-- Refactored for modern Android components (activities, fragments, async tasks).  
-- Reimplemented UI logic for dynamic sensor-based rendering.  
-- Debugged hardware/API sync issues.  
-- Improved layout stability and device performance.  
+- Refactored Android code with new SDKs and architecture components.  
+- Integrated sensor data pipeline via API; designed visualization layer for wall data.  
+- Developed a working prototype with real-time rendering of detected objects.  
 
 ### 4️⃣ Results
-- Delivered a stable demo for further research.  
-- Reduced crashes, improved frame rendering.  
-- Proved adaptability and quick technical learning curve.  
+- Delivered a stable and visually intuitive demo within one month.  
+- Improved compatibility, performance, and data flow clarity.  
 
 ### 5️⃣ Skills / Job Knowledge
-Android (Java/XML) • UI rendering • Debugging • Legacy modernization  
+Android • Java • Kotlin • API integration • Real-time visualization  
 
 ### 6️⃣ Personal Strengths
-Adaptability • Initiative • Focus • Technical Agility  
+Adaptability • Focus • Technical Agility • Rapid Problem Solving  
 
 ---
 
 <h2 align="center">🌟 STARS #3: NICS / NATO National Exercise – Live Feed Fix</h2>
 
 <p align="center">
-  <img src="./star3.png" alt="NATO National Exercise Illustration" width="90%">
+  <img src="./stars3.png" alt="NATO Exercise Live Feed Fix Illustration" width="90%">
   <br>
-  <em>Figure 3: Calm precision under high-pressure conditions.</em>
+  <em>Figure 3: Calm under fire — real-time troubleshooting and composure during live mission-critical operations.</em>
 </p>
 
 **Accomplishment Statement**  
-During a live NATO-sponsored national exercise, restored the real-time drone video feed used by senior officials by identifying and correcting a single-character configuration error, saving the demonstration from failure.  
+During a live NATO-sponsored national exercise, restored the real-time drone video feed used by senior officials after identifying and correcting a single-character error in the controller’s configuration. The fix re-established situational awareness within minutes and saved the demonstration from failure.  
 
 ---
 
 ### 1️⃣ Situation
-- Field engineer supporting live emergency-response exercise with national and NATO leadership.  
+- Field engineer during a live exercise; the main video feed failed before demonstration.  
 
 ### 2️⃣ Task
-- Ensure Android app and drone controllers transmitted live video and telemetry to command center.  
+- Restore live video feed and telemetry in real time.  
 
 ### 3️⃣ Actions
-- Diagnosed issue quickly under pressure.  
-- Found one-character typo in streaming URL.  
-- Restored full video feed within minutes.  
+- Diagnosed root cause under pressure, discovered URL typo, corrected and deployed fix.  
 
 ### 4️⃣ Results
-- Saved live demonstration.  
-- Gained credibility for calm, decisive response.  
+- Restored mission-critical feed within minutes, ensuring event success.  
 
 ### 5️⃣ Skills / Job Knowledge
-Android development • REST config • Real-time telemetry • Cross-team troubleshooting  
+Android • Network configuration • Field debugging • System monitoring  
 
 ### 6️⃣ Personal Strengths
-Composure • Attention to Detail • Initiative • Adaptability  
+Composure • Precision • Communication • Initiative  
 
 ---
 
 <h2 align="center">🌟 STARS #4: Universal Dev Environment Setup</h2>
 
 <p align="center">
-  <img src="./star4.png" alt="Universal Dev Environment Illustration" width="90%">
+  <img src="./stars4.png" alt="Universal Developer Environment Illustration" width="90%">
   <br>
-  <em>Figure 4: Building sustainable systems for clarity and flow.</em>
+  <em>Figure 4: Structure and serenity — connecting Docker, VSCode, React, FastAPI, and MegaLinter in one reproducible workspace.</em>
 </p>
 
 **Accomplishment Statement**  
-Designed and implemented a universal container-based dev environment to reduce context switching, automate setup, and maintain productivity across projects. Unified Docker, Dev Containers, Taskfile, Poetry, and MegaLinter to create reproducible, local-first workflows that support sustainable focus.  
+Designed and implemented a universal container-based development environment to reduce context switching, automate setup, and maintain productivity across multiple projects. Integrated Docker, VSCode Dev Containers, Taskfile, Poetry, and MegaLinter for reproducible, local-first development.  
 
 ---
 
 ### 1️⃣ Situation
-- Constant project switching, cognitive overload, burnout risk.  
-- Needed reproducible multi-machine setup.  
+- Frequent context switching between differing project stacks caused friction and burnout.  
 
 ### 2️⃣ Task
-- Build a universal system that reduced setup friction and preserved mental energy.  
+- Build a unified dev setup that worked across systems and tools.  
 
 ### 3️⃣ Actions
-- Standardized local-first environments with Docker & VSCode Dev Containers.  
-- Automated builds via Taskfile + MegaLinter.  
-- Used Poetry & ASDF for dependency management.  
-- Documented workflows conversationally via ChatGPT to offload mental load.  
+- Created base Docker images for modular reusability.  
+- Automated builds and linting pipelines with Taskfile and MegaLinter.  
+- Integrated FastAPI, React, and Postgres in reproducible containers.  
 
 ### 4️⃣ Results
-- Reduced environment setup time from hours to minutes.  
-- Improved code quality and cross-system consistency.  
-- Gained clarity on sustainable productivity methods.  
+- Reduced setup time from hours to minutes.  
+- Improved development hygiene, focus, and sustainability.  
 
 ### 5️⃣ Skills / Job Knowledge
-DevOps • DX • Docker • Dev Containers • MegaLinter • Poetry • FastAPI • React  
+Docker • VSCode • FastAPI • React • MegaLinter • DevOps  
 
 ### 6️⃣ Personal Strengths
-Systems Thinking • Adaptability • Self-Awareness • Innovation • Resilience  
+Discipline • Systems Thinking • Process Design • Self-Awareness  
 
 ---
 
 <h2 align="center">🌟 STARS #5: Incompris LLC – Creative-Technical Studio</h2>
 
 <p align="center">
-  <img src="./star5.png" alt="Incompris LLC Creative Technical Studio Illustration" width="90%">
+  <img src="./stars5.png" alt="Incompris Cosmic System Illustration" width="90%">
   <br>
-  <em>Figure 5: Engineering meets artistry — the synthesis of system and soul.</em>
+  <em>Figure 5: Cosmic creativity — the interconnected constellation of music, AI, design, and automation under one unified system.</em>
 </p>
 
 **Accomplishment Statement**  
-Founded **Incompris LLC**, a creative and technical studio that merges systems architecture, automation, and AI with music and visual storytelling. Designed the ecosystem as both a record label and a self-regulating R&D environment, using engineering principles to make creativity reproducible and sustainable.  
+Founded **Incompris LLC**, a creative-technical studio merging systems architecture, automation, and AI with music and design. Built an adaptive, self-regulating creative ecosystem that merges engineering discipline with artistic freedom.  
 
 ---
 
 ### 1️⃣ Situation
-- Needed to merge technical expertise and artistic identity into one holistic framework.  
+- Desired a scalable framework merging creative and technical workflows.  
 
 ### 2️⃣ Task
-- Build a scalable architecture integrating automation, AI, and creative workflows.  
+- Design an autonomous system connecting music, AI, design, and automation.  
 
 ### 3️⃣ Actions
-- Built modular systems using graduate-level design patterns.  
-- Developed **Audiora**, a React-Flow visualization of all company nodes.  
-- Automated pipelines with Ableton, Suno, Splice, RunwayML, Zapier, Google Flow.  
-- Managed projects with ClickUp, documented everything in GitHub Markdown.  
-- Implemented human-in-the-loop AI for ethical automation.  
+- Created a multi-node architecture (Audiora) to map tools and workflows.  
+- Automated content production with Ableton, Suno, Splice, RunwayML, and Zapier.  
+- Deployed analytics-driven release and feedback systems.  
 
 ### 4️⃣ Results
-- 150+ releases with automated creative workflows.  
-- Reproducible studio model for other artists.  
-- Improved output, consistency, and well-being.  
+- Produced 150+ tracks with visual and technical automation.  
+- Built a reproducible model of creative workflow design.  
 
 ### 5️⃣ Skills / Job Knowledge
-System Architecture • DevOps • AI • Automation • Creative Direction • Workflow Design  
+Systems Architecture • AI • Automation • Creative Production  
 
 ### 6️⃣ Personal Strengths
-Innovation • Visionary Thinking • Resilience • Continuous Learning • Emotional Intelligence  
+Vision • Innovation • Emotional Intelligence • Integration • Leadership  
 
 ---

@@ -22,7 +22,8 @@ Sole developer on an internal initiative, where I designed and deployed a modula
 ---
 
 ### 1️⃣ Situation
-- Internal MIT Lincoln Lab project focused on processing and organizing large investigative datasets.  
+- Internal MIT Lincoln Lab project focused on processing and organizing large investigative datasets.
+- Partnered with local law enforcement agency based in New York. 
 - Team downsized to just two people: myself (sole developer) and a program manager.  
 - Strict constraints: data access restrictions, offline-only operation, reproducible environments.  
 - Internal funding required completion of an entrepreneurial validation program.  
